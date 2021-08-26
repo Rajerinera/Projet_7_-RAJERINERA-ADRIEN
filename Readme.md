@@ -9,8 +9,8 @@
 		
 			Backend : 
 
-
 					- Prérequis : Node Js
+					- Ouvrir le terminal et ensuite accedez au dossier avec cd backend
 					- Ensuite dans le terminal: npm install
 					- Et enfin finir par nodemon serve ou node server
 
@@ -19,8 +19,8 @@
 			
 			Frontend:      
 			
+					- Ouvrir le terminal et ensuite accedez au dossier avec cd frontend
 					- Dans le terminal: npm install 
-
 					- Et enfin npm run serve 
 
 
